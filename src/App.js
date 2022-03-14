@@ -6,6 +6,8 @@ export default function App() {
     <div className="App">
       <h1>Hello</h1>
       <h2>I am developer</h2>
+      <h1>i am from india</h1>
+      <h3>Australia</h3>
       <Counter />
     </div>
   );

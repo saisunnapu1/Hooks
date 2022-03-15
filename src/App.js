@@ -1,15 +1,10 @@
-import Counter from "./counter";
 import "./styles.css";
+import Weather from "./Weather";
 
 export default function App() {
   return (
-    <div className="App">
-      <h1>Hello</h1>
-      <h2>I am developer</h2>
-      <h1>i am from india</h1>
-      <h3>Australia-1122</h3>
-      <h4>Made in taiwan</h4>
-      <Counter />
+    <div className="container-fluid p-5  text-danger text-center">
+      <Weather />
     </div>
   );
 }

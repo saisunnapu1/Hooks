@@ -2,3 +2,9 @@
   font-family: sans-serif;
   text-align: center;
 }
+.body {
+  background-color: lightblue;
+}
+.inner {
+  background-color: lightgray;
+}

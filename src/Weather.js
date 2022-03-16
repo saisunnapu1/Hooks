@@ -23,7 +23,7 @@ function Weather() {
         });
     };
     fetchData();
-  }, [lat, long]);
+  }, [long, lat]);
 
   return (
     <div>
